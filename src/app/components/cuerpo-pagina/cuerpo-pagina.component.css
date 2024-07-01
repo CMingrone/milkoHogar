@@ -1,0 +1,12 @@
+.cuerpoPagina{
+    background-color: black;
+    background-repeat:no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}

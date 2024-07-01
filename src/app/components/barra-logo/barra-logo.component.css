@@ -1,0 +1,22 @@
+.fondoLogo{
+    background-color: orange;
+    width: 100vw;
+    height: 30vh;
+
+}
+.logo{
+    width: 25em;
+    height: 15em;
+    position: relative;
+    margin-top: 8em;
+    top: -4em;
+}
+.contenedorLogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subtitulo{
+    position: relative;
+    right: 20em;
+}
