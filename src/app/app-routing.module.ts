@@ -7,6 +7,7 @@ import { CuidadoPersonalComponent } from './layout/cuidado-personal/cuidado-pers
 import { BanosYCocinasComponent } from './layout/banos-ycocinas/banos-ycocinas.component';
 import { OrganizadoresComponent } from './layout/organizadores/organizadores.component';
 import { UsadosComponent } from './layout/usados/usados.component';
+import { MueblesComponent } from './layout/muebles/muebles.component';
 
 const routes: Routes = [
   {
@@ -24,6 +25,10 @@ const routes: Routes = [
   {
     path: 'cuidadoPersonal',
     component: CuidadoPersonalComponent
+  },
+  {
+    path: 'muebles',
+    component: MueblesComponent
   },
   {
     path: 'banosYCocinas',

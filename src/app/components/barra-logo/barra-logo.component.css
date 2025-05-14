@@ -1,12 +1,12 @@
 .fondoLogo{
-    background-color: orange;
+    background-color: #2f3338;
     width: 100vw;
-    height: 30vh;
+    height: 50vh;
 
 }
 .logo{
-    width: 25em;
-    height: 15em;
+    width: 20em;
+    height: 20em;
     position: relative;
     margin-top: 8em;
     top: -4em;

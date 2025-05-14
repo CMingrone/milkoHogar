@@ -23,9 +23,6 @@
     justify-content: flex-start;
 }
 
-.pregunta{
-    margin-left: 2em;
-}
 .espacio-central-barra{
     display: flex;
     width: 100%;

@@ -14,6 +14,7 @@ import { CuidadoPersonalComponent } from './layout/cuidado-personal/cuidado-pers
 import { BanosYCocinasComponent } from './layout/banos-ycocinas/banos-ycocinas.component';
 import { OrganizadoresComponent } from './layout/organizadores/organizadores.component';
 import { UsadosComponent } from './layout/usados/usados.component';
+import { MueblesComponent } from './layout/muebles/muebles.component';
 
 @NgModule({
   declarations: [
@@ -29,6 +30,7 @@ import { UsadosComponent } from './layout/usados/usados.component';
     BanosYCocinasComponent,
     OrganizadoresComponent,
     UsadosComponent,
+    MueblesComponent,
   ],
   imports: [
     BrowserModule,
